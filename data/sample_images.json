@@ -1,0 +1,35 @@
+[
+  {
+    "filename": "shelf_beverages_01.jpg",
+    "description": "Beverage shelf with Coca Cola, Pepsi, and water bottles",
+    "expected_products": [
+      "Coca Cola",
+      "Pepsi",
+      "Water Bottle"
+    ],
+    "expected_count": 24,
+    "download_url": "https://example.com/shelf_beverages_01.jpg"
+  },
+  {
+    "filename": "shelf_snacks_01.jpg",
+    "description": "Snack shelf with chips, cookies, and candy",
+    "expected_products": [
+      "Chips",
+      "Cookies",
+      "Candy"
+    ],
+    "expected_count": 18,
+    "download_url": "https://example.com/shelf_snacks_01.jpg"
+  },
+  {
+    "filename": "shelf_mixed_01.jpg",
+    "description": "Mixed shelf with various products",
+    "expected_products": [
+      "Energy Drink",
+      "Juice",
+      "Protein Bar"
+    ],
+    "expected_count": 15,
+    "download_url": "https://example.com/shelf_mixed_01.jpg"
+  }
+]

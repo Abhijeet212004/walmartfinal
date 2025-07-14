@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1 - Beverages Item",
+    "sku": "SKU0001",
+    "category": "Beverages",
+    "price": 81.15,
+    "cost": 18.94,
+    "supplier": "Supplier 1",
+    "description": "High-quality beverages product",
+    "weight": 3.82,
+    "dimensions": {
+      "length": 23.7,
+      "width": 18.9,
+      "height": 2.6
+    },
+    "min_stock_threshold": 17,
+    "max_stock_capacity": 250,
+    "current_stock": 196
+  },
+  {
+    "id": 2,
+    "name": "Product 2 - Snacks Item",
+    "sku": "SKU0002",
+    "category": "Snacks",
+    "price": 194.53,
+    "cost": 55.13,
+    "supplier": "Supplier 2",
+    "description": "High-quality snacks product",
+    "weight": 0.45,
+    "dimensions": {
+      "length": 25.8,
+      "width": 19.4,
+      "height": 13.3
+    },
+    "min_stock_threshold": 25,
+    "max_stock_capacity": 260,
+    "current_stock": 36
+  },
+  {
+    "id": 3,
+    "name": "Product 3 - Electronics Item",
+    "sku": "SKU0003",
+    "category": "Electronics",
+    "price": 31.25,
+    "cost": 73.05,
+    "supplier": "Supplier 3",
+    "description": "High-quality electronics product",
+    "weight": 4.89,
+    "dimensions": {
+      "length": 20.3,
+      "width": 8.2,
+      "height": 9.9
+    },
+    "min_stock_threshold": 15,
+    "max_stock_capacity": 157,
+    "current_stock": 165
+  },
+  {
+    "id": 4,
+    "name": "Product 4 - Clothing Item",
+    "sku": "SKU0004",
+    "category": "Clothing",
+    "price": 62.51,
+    "cost": 45.66,
+    "supplier": "Supplier 4",
+    "description": "High-quality clothing product",
+    "weight": 2.48,
+    "dimensions": {
+      "length": 20.2,
+      "width": 6.4,
+      "height": 2.5
+    },
+    "min_stock_threshold": 25,
+    "max_stock_capacity": 229,
+    "current_stock": 47
+  },
+  {
+    "id": 5,
+    "name": "Product 5 - Home Item",
+    "sku": "SKU0005",
+    "category": "Home & Garden",
+    "price": 149.09,
+    "cost": 42.1,
+    "supplier": "Supplier 5",
+    "description": "High-quality home & garden product",
+    "weight": 0.72,
+    "dimensions": {
+      "length": 29.9,
+      "width": 19.1,
+      "height": 10.6
+    },
+    "min_stock_threshold": 22,
+    "max_stock_capacity": 207,
+    "current_stock": 106
+  },
+  {
+    "id": 6,
+    "name": "Product 6 - Beverages Item",
+    "sku": "SKU0006",
+    "category": "Beverages",
+    "price": 183.5,
+    "cost": 73.49,
+    "supplier": "Supplier 1",
+    "description": "High-quality beverages product",
+    "weight": 4.43,
+    "dimensions": {
+      "length": 8.8,
+      "width": 14.8,
+      "height": 11.4
+    },
+    "min_stock_threshold": 15,
+    "max_stock_capacity": 200,
+    "current_stock": 29
+  },
+  {
+    "id": 7,
+    "name": "Product 7 - Snacks Item",
+    "sku": "SKU0007",
+    "category": "Snacks",
+    "price": 82.43,
+    "cost": 49.95,
+    "supplier": "Supplier 2",
+    "description": "High-quality snacks product",
+    "weight": 2.25,
+    "dimensions": {
+      "length": 24.9,
+      "width": 7.8,
+      "height": 9.8
+    },
+    "min_stock_threshold": 15,
+    "max_stock_capacity": 239,
+    "current_stock": 119
+  },
+  {
+    "id": 8,
+    "name": "Product 8 - Electronics Item",
+    "sku": "SKU0008",
+    "category": "Electronics",
+    "price": 96.44,
+    "cost": 94.3,
+    "supplier": "Supplier 3",
+    "description": "High-quality electronics product",
+    "weight": 4.51,
+    "dimensions": {
+      "length": 27.3,
+      "width": 16.5,
+      "height": 7.9
+    },
+    "min_stock_threshold": 12,
+    "max_stock_capacity": 450,
+    "current_stock": 147
+  },
+  {
+    "id": 9,
+    "name": "Product 9 - Clothing Item",
+    "sku": "SKU0009",
+    "category": "Clothing",
+    "price": 149.04,
+    "cost": 11.28,
+    "supplier": "Supplier 4",
+    "description": "High-quality clothing product",
+    "weight": 1.95,
+    "dimensions": {
+      "length": 26.6,
+      "width": 14.9,
+      "height": 4.8
+    },
+    "min_stock_threshold": 13,
+    "max_stock_capacity": 147,
+    "current_stock": 179
+  },
+  {
+    "id": 10,
+    "name": "Product 10 - Home Item",
+    "sku": "SKU0010",
+    "category": "Home & Garden",
+    "price": 56.68,
+    "cost": 90.04,
+    "supplier": "Supplier 5",
+    "description": "High-quality home & garden product",
+    "weight": 4.36,
+    "dimensions": {
+      "length": 13.4,
+      "width": 11.8,
+      "height": 3.1
+    },
+    "min_stock_threshold": 18,
+    "max_stock_capacity": 326,
+    "current_stock": 155
+  },
+  {
+    "id": 11,
+    "name": "Product 11 - Beverages Item",
+    "sku": "SKU0011",
+    "category": "Beverages",
+    "price": 184.05,
+    "cost": 56.3,
+    "supplier": "Supplier 1",
+    "description": "High-quality beverages product",
+    "weight": 3.01,
+    "dimensions": {
+      "length": 14.5,
+      "width": 14.4,
+      "height": 6.5
+    },
+    "min_stock_threshold": 26,
+    "max_stock_capacity": 134,
+    "current_stock": 33
+  },
+  {
+    "id": 12,
+    "name": "Product 12 - Snacks Item",
+    "sku": "SKU0012",
+    "category": "Snacks",
+    "price": 58.03,
+    "cost": 53.37,
+    "supplier": "Supplier 2",
+    "description": "High-quality snacks product",
+    "weight": 1.7,
+    "dimensions": {
+      "length": 19.1,
+      "width": 16.8,
+      "height": 3.8
+    },
+    "min_stock_threshold": 19,
+    "max_stock_capacity": 324,
+    "current_stock": 44
+  },
+  {
+    "id": 13,
+    "name": "Product 13 - Electronics Item",
+    "sku": "SKU0013",
+    "category": "Electronics",
+    "price": 57.49,
+    "cost": 59.48,
+    "supplier": "Supplier 3",
+    "description": "High-quality electronics product",
+    "weight": 1.79,
+    "dimensions": {
+      "length": 7.2,
+      "width": 5.6,
+      "height": 10.2
+    },
+    "min_stock_threshold": 16,
+    "max_stock_capacity": 441,
+    "current_stock": 121
+  },
+  {
+    "id": 14,
+    "name": "Product 14 - Clothing Item",
+    "sku": "SKU0014",
+    "category": "Clothing",
+    "price": 141.65,
+    "cost": 40.17,
+    "supplier": "Supplier 4",
+    "description": "High-quality clothing product",
+    "weight": 4.42,
+    "dimensions": {
+      "length": 8.5,
+      "width": 18.3,
+      "height": 11.0
+    },
+    "min_stock_threshold": 25,
+    "max_stock_capacity": 415,
+    "current_stock": 18
+  },
+  {
+    "id": 15,
+    "name": "Product 15 - Home Item",
+    "sku": "SKU0015",
+    "category": "Home & Garden",
+    "price": 161.49,
+    "cost": 87.52,
+    "supplier": "Supplier 5",
+    "description": "High-quality home & garden product",
+    "weight": 3.12,
+    "dimensions": {
+      "length": 19.1,
+      "width": 6.9,
+      "height": 11.1
+    },
+    "min_stock_threshold": 30,
+    "max_stock_capacity": 413,
+    "current_stock": 87
+  },
+  {
+    "id": 16,
+    "name": "Product 16 - Beverages Item",
+    "sku": "SKU0016",
+    "category": "Beverages",
+    "price": 184.22,
+    "cost": 47.74,
+    "supplier": "Supplier 1",
+    "description": "High-quality beverages product",
+    "weight": 3.25,
+    "dimensions": {
+      "length": 12.1,
+      "width": 11.6,
+      "height": 13.4
+    },
+    "min_stock_threshold": 25,
+    "max_stock_capacity": 239,
+    "current_stock": 66
+  },
+  {
+    "id": 17,
+    "name": "Product 17 - Snacks Item",
+    "sku": "SKU0017",
+    "category": "Snacks",
+    "price": 99.65,
+    "cost": 52.36,
+    "supplier": "Supplier 2",
+    "description": "High-quality snacks product",
+    "weight": 0.49,
+    "dimensions": {
+      "length": 23.5,
+      "width": 5.7,
+      "height": 4.4
+    },
+    "min_stock_threshold": 12,
+    "max_stock_capacity": 129,
+    "current_stock": 48
+  },
+  {
+    "id": 18,
+    "name": "Product 18 - Electronics Item",
+    "sku": "SKU0018",
+    "category": "Electronics",
+    "price": 170.12,
+    "cost": 55.36,
+    "supplier": "Supplier 3",
+    "description": "High-quality electronics product",
+    "weight": 3.86,
+    "dimensions": {
+      "length": 12.0,
+      "width": 5.2,
+      "height": 2.3
+    },
+    "min_stock_threshold": 10,
+    "max_stock_capacity": 137,
+    "current_stock": 117
+  },
+  {
+    "id": 19,
+    "name": "Product 19 - Clothing Item",
+    "sku": "SKU0019",
+    "category": "Clothing",
+    "price": 129.18,
+    "cost": 9.58,
+    "supplier": "Supplier 4",
+    "description": "High-quality clothing product",
+    "weight": 0.58,
+    "dimensions": {
+      "length": 13.5,
+      "width": 8.1,
+      "height": 5.6
+    },
+    "min_stock_threshold": 27,
+    "max_stock_capacity": 392,
+    "current_stock": 151
+  },
+  {
+    "id": 20,
+    "name": "Product 20 - Home Item",
+    "sku": "SKU0020",
+    "category": "Home & Garden",
+    "price": 115.56,
+    "cost": 89.12,
+    "supplier": "Supplier 5",
+    "description": "High-quality home & garden product",
+    "weight": 0.19,
+    "dimensions": {
+      "length": 12.2,
+      "width": 7.7,
+      "height": 13.9
+    },
+    "min_stock_threshold": 11,
+    "max_stock_capacity": 393,
+    "current_stock": 144
+  }
+]

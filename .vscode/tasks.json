@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Walmart IQ Backend",
+			"type": "shell",
+			"command": "cd backend && python3 -m uvicorn main:app --reload --host 0.0.0.0 --port 8000",
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": [],
+			"args": []
+		}
+	]
+}
