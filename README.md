@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Walmart IQ: AI-Powered Inventory & Demand Prediction Engine
 
 An end-to-end software-only system that mimics how Walmart could track inventory, predict demand, auto-generate restocking actions, and alert anomalies in product movement.
@@ -116,3 +117,6 @@ cd frontend && npm test
 ## 📝 License
 
 MIT License - Built for Walmart Hackathon 2025
+=======
+# walmartfinal
+>>>>>>> 3110b6ad6cf08091d7f4ecaac07d8effb38eed91
